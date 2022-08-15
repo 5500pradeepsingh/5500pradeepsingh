@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradeep Kumar Singh and Iam Software Developer with 1.6+ year of experience, skilled in PYTHON, DJANGO, REST-API, DATA MINING, TABLEAU, DOCKER, HTML5, CSS3, JAVASCRIPT, JQUERY, AJAX, MYSQL,REACT JS, POSTGRESQL, MYSQL, AWS EC2 PROJECT DEPLOYMENT AND GIT.
+- 👋 Hi, I’m Pradeep Kumar Singh and Iam Software Developer with 3+ year of experience, skilled in PYTHON, DJANGO, REST-API, DATA MINING, TABLEAU, DOCKER, HTML5, CSS3, JAVASCRIPT, JQUERY, AJAX, MYSQL,REACT JS, POSTGRESQL, MYSQL, AWS EC2 PROJECT DEPLOYMENT AND GIT.
 - 👀 I’m interested in Researching the new Tech stuff to Enhance my growth in latest tech world 💺.
 - 🌱 I’m currently learning Data Science.
 - 📫 Reach me at https://5500pradeepsingh.github.io/ 
